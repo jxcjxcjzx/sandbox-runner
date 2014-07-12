@@ -1,6 +1,6 @@
 {
   "name": "sandbox-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run javascript in a sandbox context",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/timnew/sandbox-runner/issues"
-  },  
+  },
   "homepage": "https://github.com/timnew/sandbox-runner",
-   "devDependencies": {    
+  "devDependencies": {
     "chai": "^1.9.1",
     "coffee-script": "~1.7.1",
     "del": "^0.1.1",

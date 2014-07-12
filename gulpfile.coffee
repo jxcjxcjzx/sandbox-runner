@@ -18,6 +18,7 @@ paths =
     spec: [['specs/*.spec.coffee', 'specs/**/*.spec.coffee'], {read: false}]
     manifest: ['./package.json']
   dest:
+    root: '.'
     coffee: 'lib'      
 
 gulp.task 'clean', ->
